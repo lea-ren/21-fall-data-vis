@@ -2,7 +2,7 @@
 
 **Summary Image:**
 
-[https://drive.google.com/file/d/1yatw8KSpr7n7r4pqYWIQPwYgtQeBJMmK/view?usp=sharing](https://drive.google.com/file/d/1yatw8KSpr7n7r4pqYWIQPwYgtQeBJMmK/view?usp=sharing)
+![summary image](https://drive.google.com/file/d/1yatw8KSpr7n7r4pqYWIQPwYgtQeBJMmK/view?usp=sharing)
 
 **Abstract:**
 
