@@ -2,7 +2,7 @@
 
 **Summary Image:**
 
-![summary image](https://drive.google.com/file/d/1yatw8KSpr7n7r4pqYWIQPwYgtQeBJMmK/view?usp=sharing)
+![summary image](https://github.com/roxanne-ren99/21-fall-data-vis/blob/main/summary%20image.png)
 
 **Abstract:**
 
