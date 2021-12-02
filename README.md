@@ -1,3 +1,4 @@
+# Geographical Inequality in Chinese Education
 **Team Members:** Liujing Ren, Zijing Lu, Ziyu Han, Chengyu Chen
 
 **Summary Image:**
